@@ -4,7 +4,11 @@ I'm Fabian, Computer Science at AGH
 
 I build AI projects that can help people and make their lives easier
 
-My main tech is python, huggingFacem, fastAPI and postgreSQL.
+My main tech is 
+* python, 
+* huggingFace, 
+* fastAPI and pydantic
+*  postgreSQL and pgvector.
 
 I am currently working on my personal project Moovly
 
