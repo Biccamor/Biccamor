@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hey 
+
+I'm Fabian, Computer Science at AGH 
+
+I build AI projects that can help people and make their lives easier
+
+My main tech is python, huggingFacem, fastAPI and postgreSQL.
+
+I am currently working on my personal project Moovly
 
 <!--
 **Biccamor/Biccamor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
