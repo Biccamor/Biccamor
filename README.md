@@ -1,16 +1,20 @@
-## Hey 
+# Hey, I'm Fabian
 
-I'm Fabian, Computer Science at AGH 
+CS student at AGH Kraków · AI Engineer at ABB · Board Member at BIT 
 
-I build AI projects that can help people and make their lives easier
+I focus on one question: **when can we trust what AI systems say — 
+and why do they fail when they don't?**
 
-My main tech is 
-* python, 
-* huggingFace, 
-* fastAPI and pydantic
-*  postgreSQL and pgvector.
+Currently:
+- 📄 Researching ML reproducibility — empirical analysis of 
+  papers from top ML conferences
+- 🏗️ Building document-intelligence pipelines at ABB 
+  for enterprise clients from the US
 
-I am currently working on my personal project Moovly
+Interested in: Mechanistic Interpretability · XAI · 
+Reliable Systems
+
+Main tech: Python · FastAPI · pgvector · RAG · LLM Agents
 
 <!--
 **Biccamor/Biccamor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
